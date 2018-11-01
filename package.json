@@ -1,0 +1,38 @@
+{
+  "name": "react-app",
+  "homepage": "https://goldenlayouts.firebaseapp.com",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "firebase": "^5.5.4",
+    "firebase-tools": "^6.0.0",
+    "golden-layout": "^1.5.9",
+    "immutable": "^3.8.2",
+    "jquery": "^3.3.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-golden-layout": "^1.0.6",
+    "react-redux": "^5.0.7",
+    "react-scripts": "2.0.5",
+    "react-spinners": "^0.4.7",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,19 @@
+//** EVENTS CONSTANTS PAGE*/
+// Since strings are prone to typos and duplicates it’s better to have action types declared as constants.
+// This approach helps avoiding errors that will be difficult to debug.
+export default {
+  //FIREBASE PANELS
+  LOAD_PANELS_REQUEST: "LOAD_PANELS_REQUEST",
+  LOAD_PANELS_SUCCESS: "LOAD_PANELS_SUCCESS",
+  LOAD_PANELS_FAILED: "LOAD_PANELS_FAILED",
+  ADD_PANELS_SUCCESS: "ADD_PANELS_SUCCESS",
+  ADD_PANELS_REQUEST: "ADD_PANELS_REQUEST",
+  ADD_PANELS_FAILED: "ADD_PANELS_FAILED",
+  //LOCAL PANELS
+  ADD_NEW_PANEL: "ADD_NEW_PANEL",
+  DELETE_PANEL: "DELETE_PANEL",
+  //COUNT
+  INCREMENT_COUNT: "INCREMENT_COUNT",
+  DECREMENT_COUNT: "DECREMENT_COUNT",
+  RESET_COUNT: "RESET_COUNT"
+};
