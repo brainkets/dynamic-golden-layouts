@@ -4,11 +4,11 @@ This is an example project implementing a dynamic golden-layouts with ReatcJs/Re
 
 ## Demo
 
-You can see the (demo here)[https://goldenlayouts.firebaseapp.com/]
+You can see the [demo here](https://goldenlayouts.firebaseapp.com/)
 
 ## Usage
 
-`npm install`
+`npm install` <br>
 `npm start`
 
 <!-- ## Folder Structure
